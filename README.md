@@ -1,1 +1,1 @@
-# My All DIPTI Assignment Solutions
+# Repository for DIPTI assignments
