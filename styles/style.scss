@@ -1,0 +1,77 @@
+@import url("https://fonts.googleapis.com/css2?family=Open+Sans&display=swap");
+
+* {
+    font-family: "Open Sans", sans-serif;
+}
+
+.navbar {
+    background-color: #fff !important;
+}
+
+.special-pack {
+    margin-top: 0;
+    @media (min-width: 768px) {
+        margin-top: -2.3rem;
+    }
+}
+
+.callout {
+    position: absolute;
+    right: 4rem;
+    top: -4.7rem;
+    background-color: #fff;
+    padding: 0.5rem 1rem;
+    border: 0px solid #3f87f5;
+    border-left-width: 0.6rem;
+    border-radius: 0.25rem;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 0.5rem;
+    box-shadow: 0 0 1rem rgba(0, 0, 0, 0.2);
+    @media (max-width: 768px) {
+        width: max-content;
+        left: 50%;
+        transform: translateX(-50%);
+    }
+    > p {
+        margin: 0;
+        font-size: 1rem;
+        font-weight: 600;
+    }
+    > i {
+        display: inline-block;
+        font-size: 1.6rem;
+        color: #3f87f5;
+    }
+}
+
+.card {
+    cursor: pointer;
+    transition: color 0.4s, background-color 0.4s;
+    &:hover {
+        color: #fff;
+        background-color: #3e72ff !important;
+    }
+}
+
+.pricing-header {
+    margin-bottom: 2rem;
+    @media (min-width: 768px) {
+        margin-bottom: 5rem;
+    }
+}
+
+.explore-btn {
+    width: 100%;
+    @media (min-width: 768px) {
+        width: 50%;
+    }
+}
+
+.footer-image {
+    width: 50%;
+    @media (min-width: 768px) {
+        width: 75%;
+    }
+}
