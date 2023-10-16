@@ -1,0 +1,44 @@
+[
+    {
+        "id": 1,
+        "name": "Shah-Rukh-Khan",
+        "images": "./images/srk.jpg",
+        "point": 5,
+        "message": "Tvs Apache rtr 160 4v is the best motor bike in india. Now it will rock the Bangladesh!"
+    },
+    {
+        "id": 2,
+        "name": "Amir Khan",
+        "images": "./images/amir.jpg",
+        "point": 3,
+        "message": "Tvs Apache rtr 160 4v is the king of the Bangladesh road!"
+    },
+    {
+        "id": 3,
+        "name": "Salman Khan",
+        "images": "./images/salman.jpg",
+        "point": 4,
+        "message": "Tvs Apache rtr 160 4v is the most powerful bike in Bangladesh! The style of this motor bike is awesome!"
+    },
+    {
+        "id": 4,
+        "name": "The Rock",
+        "images": "./images/rock.jpg",
+        "point": 4,
+        "message": "Tvs Apache rtr 160 4v is the best motor bike in Bangladesh! It also available in USA!"
+    },
+    {
+        "id": 5,
+        "name": "Randy Orton",
+        "images": "./images/randy.jpg",
+        "point": 5,
+        "message": "Tvs Apache rtr 160 4v is fastest, strongest and most stylish motor bike in 160cc segment!"
+    },
+    {
+        "id": 6,
+        "name": "Jhankar Mahbub",
+        "images": "./images/jhankar.jpg",
+        "point": 4,
+        "message": "I don't know how to ride a motor bike! But I love Tvs Apache rtr 160 4v. It is the best motor bike in Bangladesh!"
+    }
+]
